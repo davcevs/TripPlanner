@@ -1,0 +1,222 @@
+[
+  {
+    "name": {
+      "common": "Japan"
+    },
+    "capital": ["Tokyo"],
+    "region": "Asia",
+    "area": 377930,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "population": 126050000,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "India"
+    },
+    "capital": ["New Delhi"],
+    "region": "Asia",
+    "area": 3287263,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "population": 1393409038,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Nepal"
+    },
+    "capital": ["Kathmandu"],
+    "region": "Asia",
+    "area": 147516,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "population": 29136808,
+    "landlocked": true
+  },
+  {
+    "name": {
+      "common": "Thailand"
+    },
+    "capital": ["Bangkok"],
+    "region": "Asia",
+    "area": 513120,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+    "population": 69799978,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Nigeria"
+    },
+    "capital": ["Abuja"],
+    "region": "Africa",
+    "area": 923768,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+    "population": 206139587,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Kenya"
+    },
+    "capital": ["Nairobi"],
+    "region": "Africa",
+    "area": 580367,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+    "population": 53771300,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Uganda"
+    },
+    "capital": ["Kampala"],
+    "region": "Africa",
+    "area": 241038,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+    "population": 45741000,
+    "landlocked": true
+  },
+  {
+    "name": {
+      "common": "South Africa"
+    },
+    "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
+    "region": "Africa",
+    "area": 1221037,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "population": 59308690,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "France"
+    },
+    "capital": ["Paris"],
+    "region": "Europe",
+    "area": 551695,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "population": 67391582,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Germany"
+    },
+    "capital": ["Berlin"],
+    "region": "Europe",
+    "area": 357022,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "population": 83149300,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Switzerland"
+    },
+    "capital": ["Bern"],
+    "region": "Europe",
+    "area": 41284,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+    "population": 8654622,
+    "landlocked": true
+  },
+  {
+    "name": {
+      "common": "Greece"
+    },
+    "capital": ["Athens"],
+    "region": "Europe",
+    "area": 131957,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "population": 10724599,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "United States"
+    },
+    "capital": ["Washington, D.C."],
+    "region": "Americas",
+    "area": 9833520,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "population": 331893745,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Brazil"
+    },
+    "capital": ["Brasília"],
+    "region": "Americas",
+    "area": 8515767,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+    "population": 212559409,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Argentina"
+    },
+    "capital": ["Buenos Aires"],
+    "region": "Americas",
+    "area": 2780400,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+    "population": 45195774,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Bolivia"
+    },
+    "capital": ["Sucre"],
+    "region": "Americas",
+    "area": 1098581,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+    "population": 11673029,
+    "landlocked": true
+  },
+  {
+    "name": {
+      "common": "Australia"
+    },
+    "capital": ["Canberra"],
+    "region": "Oceania",
+    "area": 7692024,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+    "population": 25687041,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "New Zealand"
+    },
+    "capital": ["Wellington"],
+    "region": "Oceania",
+    "area": 268021,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "population": 5084300,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Fiji"
+    },
+    "capital": ["Suva"],
+    "region": "Oceania",
+    "area": 18274,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+    "population": 896444,
+    "landlocked": false
+  },
+  {
+    "name": {
+      "common": "Papua New Guinea"
+    },
+    "capital": ["Port Moresby"],
+    "region": "Oceania",
+    "area": 462840,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "population": 8935000,
+    "landlocked": false
+  }
+]
